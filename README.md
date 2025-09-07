@@ -5,12 +5,12 @@
 ````markdown
 #  How to Setup Wazuh on Ubuntu
 
-This guide explains how to install and troubleshoot **Wazuh** on an Ubuntu machine.
+This guide explains how to install and troubleshoot Wazuh on an Ubuntu machine.
 
 ---
 
 ##  Prerequisites
-- Installed **Ubuntu** (e.g., on VirtualBox).
+- Installed Ubuntu (e.g., on VirtualBox).
 - Ensure you have `curl` installed:
 
 ```bash
