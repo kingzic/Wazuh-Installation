@@ -1,13 +1,9 @@
  **Wazuh Installation on Ubuntu Machine** 
 
----
-
-````markdown
 #  How to Setup Wazuh on Ubuntu
 
 This guide explains how to install and troubleshoot Wazuh on an Ubuntu machine.
 
----
 
 ##  Prerequisites
 - Installed Ubuntu (e.g., on VirtualBox).
